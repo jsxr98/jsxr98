@@ -1,15 +1,40 @@
-# Hi, I'm Jannes Schreiner! 👋
+# Hey there, I'm **Jannes Schreiner**! 👋🚀
 
-I'm a 25-year-old **Data and Information Science** student at **Technische Hochschule Köln**. My passion lies in the fields of **Python**, **Machine Learning**, and **Data Visualization**. As a future **Data Scientist**, I’m working towards mastering the art of transforming raw data into valuable insights.
+> _"Turning data into insight is my superpower!"_ 💡
 
-When I'm not studying or working as a **Werkstudent**, I'm exploring ways to bring structure and clarity to complex problems, drawing from my personal experiences with **ADHD** and **autism**. I believe in the power of data to drive positive change and am always looking for new challenges and opportunities to learn.
+I'm a 25-year-old **Data and Information Science** student at **[Technische Hochschule Köln](https://www.th-koeln.de/)**, with a passion for **Python**, **Machine Learning**, and **Data Visualization**. My goal? To become a cutting-edge **Data Scientist** who shapes the future with data-driven solutions.
 
-## What I’m Working On 🔨
-- Building **data-driven** projects that solve real-world problems
-- Enhancing my skills in **Python**, **machine learning**, and **data visualization**
-- Expanding my knowledge of **data science methodologies**
+---
 
-## Get in Touch 📫
-- [LinkedIn](https://www.linkedin.com/in/jannes-schreiner)  
+## 🚧 **Current Projects** 
+🔍 **[My Personal Data Science Playground](https://github.com/jannes-schreiner/ds-playground)**  
+_A collection of experimental data science projects, showcasing everything from exploratory data analysis to machine learning models._
 
-Let's collaborate and create something impactful! 🚀
+🌍 **[Global Climate Insights](https://github.com/jannes-schreiner/climate-insights)**  
+_Using data to visualize climate trends, making complex global changes easier to understand._
+
+---
+
+## 💼 **Werkstudent & University Life**
+Balancing work and study life isn't always easy, but I thrive under pressure. Currently, I’m a **Werkstudent**, honing my professional skills while working towards my degree. What drives me is not just solving technical problems, but making sense of chaos, finding patterns where others see randomness.
+
+---
+
+## 🧠 **Neurodivergence is My Edge**  
+Living with **ADHD** and **autism** has taught me to **embrace complexity** and approach problems with a unique perspective. This helps me bring structure and clarity to my work, turning challenges into opportunities for innovation. 
+
+---
+
+## 🛠 **Tech Stack**
+
+```yaml
+languages:
+  - Python 🐍
+  - SQL 🗃️
+  - Markdown ✍️
+tools:
+  - Pandas, NumPy 📊
+  - Matplotlib, Seaborn 📈
+  - scikit-learn 🤖
+  - Jupyter Notebooks 📓
+  - Git & GitHub 🖇️
