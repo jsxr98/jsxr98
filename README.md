@@ -1,23 +1,15 @@
-### Hi there 👋
+# Hi, I'm Jannes Schreiner! 👋
 
-I'm Jannes, a data and information science student at Technische Hochschule Köln - University of Applied Science.
+I'm a 25-year-old **Data and Information Science** student at **Technische Hochschule Köln**. My passion lies in the fields of **Python**, **Machine Learning**, and **Data Visualization**. As a future **Data Scientist**, I’m working towards mastering the art of transforming raw data into valuable insights.
 
-I'm interested in Python, Machine Learning, Data visualization and want to work as a data scientist.
+When I'm not studying or working as a **Werkstudent**, I'm exploring ways to bring structure and clarity to complex problems, drawing from my personal experiences with **ADHD** and **autism**. I believe in the power of data to drive positive change and am always looking for new challenges and opportunities to learn.
 
-I'm always eager to learn new things and explore new challenges in the field of data and information. I'm looking forward to collaborating with other GitHub users and sharing my projects and ideas. Feel free to contact me if you have any questions or suggestions. 😊
+## What I’m Working On 🔨
+- Building **data-driven** projects that solve real-world problems
+- Enhancing my skills in **Python**, **machine learning**, and **data visualization**
+- Expanding my knowledge of **data science methodologies**
 
+## Get in Touch 📫
+- [LinkedIn](https://www.linkedin.com/in/jannes-schreiner)  
 
-<!--
-**jsxr98/jsxr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's collaborate and create something impactful! 🚀
